@@ -1,0 +1,5 @@
+name=Lumi Diphone
+image=gnu.bmp
+author=freebsoft
+sample=sample.wav
+web=http://devel.freebsoft.org/singing-computer
